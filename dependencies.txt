@@ -3,3 +3,7 @@ zsh
 stow
 fzf
 zoxide
+neovim
+curl
+trash-cli
+neofetch
