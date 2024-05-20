@@ -8,3 +8,5 @@ curl
 trash-cli
 neofetch
 mpv
+git-delta
+tldr
