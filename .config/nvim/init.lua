@@ -38,9 +38,9 @@ vim.g.loaded_netrw = 1
 --Keybinds
 
 vim.keymap.set("", "ü", "{")
-vim.keymap.set("", "Ü", "o<Esc>")
 vim.keymap.set("", "ä", "}")
-vim.keymap.set("", "Ä", "O<Esc>")
+vim.keymap.set("", "Ö", "O<Esc>")
+vim.keymap.set("", "ö", "o<Esc>")
 vim.keymap.set("", "ß", "$")
 
 --Y behaves like C or D
