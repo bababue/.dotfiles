@@ -1,5 +1,18 @@
+[user]
+	name = 
+	email = 
+	username = bababue
+
+[init]
+	defaultBranch = master
+
 [core]
+    editor = nvim
     pager = delta
+    excludesFile = ~/.global_gitignore
+
+[web]
+	browser = google-chrome
 
 [interactive]
     diffFilter = delta --color-only
@@ -13,3 +26,5 @@
 
 [diff]
     colorMoved = default
+
+
