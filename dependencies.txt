@@ -2,11 +2,10 @@ git
 zsh
 stow
 fzf
-zoxide
 neovim
 curl
 trash-cli
 neofetch
-mpv
 git-delta
 tldr
+ncdu
