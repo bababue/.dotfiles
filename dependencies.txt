@@ -9,3 +9,4 @@ neofetch
 git-delta
 tldr
 ncdu
+ripgrep
