@@ -64,10 +64,10 @@ eval "$(fzf --zsh)"
 
 #Aliases
 alias v=nvim
-alias zconf="nvim ~/.zshrc"
+alias vconf="nvim ~/.config/nvim/lua/bababue"
 alias ts=trash
 alias whatsmyip="curl http://ipecho.net/plain; echo"
-alias vconf="nvim ~/.config/nvim/init.lua"
+alias zconf="nvim ~/.zshrc"
 alias dlv="yt-dlp -S "ext" -S "height:1080""
 alias dla="yt-dlp --extract-audio --audio-format mp3"
 alias ..="cd .."
