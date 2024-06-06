@@ -17,7 +17,7 @@ return {
           }
         })
 
-        vim.keymap.set('n', '<leader>df', require('telescope.builtin').find_files, {})
-        vim.keymap.set('n', '<leader>f', require('telescope.builtin').git_files, {})
+        vim.keymap.set('n', '<leader>df', require('telescope.builtin').live_grep, {})
+        vim.keymap.set('n', '<leader>f', require('telescope.builtin').find_files, {})
     end
 }

@@ -15,6 +15,7 @@ vim.opt.scrolloff = 8
 --Visual changes
 vim.opt.cursorline = true
 vim.opt.termguicolors = true
+vim.opt.showmode = false
 
 --Backup and undo
 vim.opt.swapfile = false
