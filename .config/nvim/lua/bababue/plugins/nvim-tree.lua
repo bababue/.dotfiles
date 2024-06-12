@@ -10,7 +10,7 @@ return {
       view = {
         width = 35,
         relativenumber = true,
-        }
+        },
     })
 
     vim.keymap.set("n", "<leader>t", "<cmd>NvimTreeToggle<CR>", { desc = "Toggle file explorer" }) 
