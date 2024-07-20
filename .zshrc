@@ -73,6 +73,9 @@ alias dla="yt-dlp --extract-audio --audio-format mp3"
 alias ..="cd .."
 alias ...="cd ../.."
 alias ls='ls --color'
+alias vnew='python3.12 -m venv .venv && source .venv/bin/activate && pip install -r requierements.txt && whereis python'
+alias vactivate='source .venv/bin/activate'
+alias pwf='readlink -f '
 
 
 
